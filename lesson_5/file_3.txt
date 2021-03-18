@@ -1,0 +1,10 @@
+Petrov 10000
+Ivanov 20000
+Syvsev 30000
+Grigorev 40000
+Pavlov 50000
+Petrova 15000
+Ivanova 25000
+Syvseva 35000
+Grigoreva 45000
+Pavlova 55000
